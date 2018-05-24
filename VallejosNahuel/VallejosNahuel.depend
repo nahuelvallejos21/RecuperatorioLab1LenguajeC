@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1525962119 source:d:\mis documentos\vallejosnahuel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"propietarios.h"
+
+1525961804 d:\mis documentos\vallejosnahuel\propietarios.h
+
+1525959016 source:d:\mis documentos\vallejosnahuel\pedirdatos.c
+	"stdio.h"
+	"PedirDatos.h"
+
+1525959016 d:\mis documentos\vallejosnahuel\pedirdatos.h
+
+1525961857 source:d:\mis documentos\vallejosnahuel\propietarios.c
+	<stdio.h>
+	<string.h>
+	"propietarios.h"
+	"PedirDatos.h"
+
+1525950410 source:c:\users\vallejos gustavo\desktop\estacionamiento\vallejosnahuel\pedirdatos.c
+	"stdio.h"
+	"PedirDatos.h"
+
+1525950410 c:\users\vallejos gustavo\desktop\estacionamiento\vallejosnahuel\pedirdatos.h
+
+1525986802 source:c:\users\vallejos gustavo\desktop\estacionamiento\vallejosnahuel\propietarios.c
+	<stdio.h>
+	<string.h>
+	"propietarios.h"
+	"PedirDatos.h"
+
+1525950412 c:\users\vallejos gustavo\desktop\estacionamiento\vallejosnahuel\propietarios.h
+
+1525989188 source:c:\users\vallejos gustavo\desktop\estacionamiento\vallejosnahuel\estacionamiento.c
+	<stdio.h>
+	"PedirDatos.h"
+	"propietarios.h"
+	"estacionamiento.h"
+
+1525986107 c:\users\vallejos gustavo\desktop\estacionamiento\vallejosnahuel\estacionamiento.h
+
+1525986204 source:c:\users\vallejos gustavo\desktop\estacionamiento\vallejosnahuel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"propietarios.h"
+	"estacionamiento.h"
+
+1526504580 source:c:\users\marchu\desktop\estacionamiento\vallejosnahuel\estacionamiento.c
+	<stdio.h>
+	<string.h>
+	"PedirDatos.h"
+	"propietarios.h"
+	"estacionamiento.h"
+
+1526225820 c:\users\marchu\desktop\estacionamiento\vallejosnahuel\pedirdatos.h
+
+1526225820 c:\users\marchu\desktop\estacionamiento\vallejosnahuel\propietarios.h
+
+1526412635 c:\users\marchu\desktop\estacionamiento\vallejosnahuel\estacionamiento.h
+
+1526504622 source:c:\users\marchu\desktop\estacionamiento\vallejosnahuel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"propietarios.h"
+	"estacionamiento.h"
+
+1526225869 source:c:\users\marchu\desktop\estacionamiento\vallejosnahuel\pedirdatos.c
+	"stdio.h"
+	"PedirDatos.h"
+
+1526226207 source:c:\users\marchu\desktop\estacionamiento\vallejosnahuel\propietarios.c
+	<stdio.h>
+	<string.h>
+	"propietarios.h"
+	"PedirDatos.h"
+	"estacionamiento.h"
+
+1526491112 source:c:\users\vallejos gustavo\desktop\nueva carpeta\estacionamiento\vallejosnahuel\estacionamiento.c
+	<stdio.h>
+	<string.h>
+	"PedirDatos.h"
+	"propietarios.h"
+	"estacionamiento.h"
+
+1526491120 c:\users\vallejos gustavo\desktop\nueva carpeta\estacionamiento\vallejosnahuel\pedirdatos.h
+
+1526491122 c:\users\vallejos gustavo\desktop\nueva carpeta\estacionamiento\vallejosnahuel\propietarios.h
+
+1526491114 c:\users\vallejos gustavo\desktop\nueva carpeta\estacionamiento\vallejosnahuel\estacionamiento.h
+
+1526491116 source:c:\users\vallejos gustavo\desktop\nueva carpeta\estacionamiento\vallejosnahuel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"propietarios.h"
+	"estacionamiento.h"
+
+1526491118 source:c:\users\vallejos gustavo\desktop\nueva carpeta\estacionamiento\vallejosnahuel\pedirdatos.c
+	"stdio.h"
+	"PedirDatos.h"
+
+1526491120 source:c:\users\vallejos gustavo\desktop\nueva carpeta\estacionamiento\vallejosnahuel\propietarios.c
+	<stdio.h>
+	<string.h>
+	"propietarios.h"
+	"PedirDatos.h"
+	"estacionamiento.h"
+
+1527080888 source:c:\users\alumno\desktop\estacionamiento\vallejosnahuel\estacionamiento.c
+	<stdio.h>
+	<string.h>
+	"PedirDatos.h"
+	"propietarios.h"
+	"estacionamiento.h"
+
+1527080894 c:\users\alumno\desktop\estacionamiento\vallejosnahuel\pedirdatos.h
+
+1527080896 c:\users\alumno\desktop\estacionamiento\vallejosnahuel\propietarios.h
+
+1527080888 c:\users\alumno\desktop\estacionamiento\vallejosnahuel\estacionamiento.h
+
+1527080890 source:c:\users\alumno\desktop\estacionamiento\vallejosnahuel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"propietarios.h"
+	"estacionamiento.h"
+
+1527080892 source:c:\users\alumno\desktop\estacionamiento\vallejosnahuel\pedirdatos.c
+	"stdio.h"
+	"PedirDatos.h"
+
+1527080896 source:c:\users\alumno\desktop\estacionamiento\vallejosnahuel\propietarios.c
+	<stdio.h>
+	<string.h>
+	"propietarios.h"
+	"PedirDatos.h"
+	"estacionamiento.h"
+
