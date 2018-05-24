@@ -136,3 +136,33 @@
 	"PedirDatos.h"
 	"estacionamiento.h"
 
+1527080888 source:d:\nahuelvallejos\recuperatoriolab1lenguajec\vallejosnahuel\estacionamiento.c
+	<stdio.h>
+	<string.h>
+	"PedirDatos.h"
+	"propietarios.h"
+	"estacionamiento.h"
+
+1527080894 d:\nahuelvallejos\recuperatoriolab1lenguajec\vallejosnahuel\pedirdatos.h
+
+1527080896 d:\nahuelvallejos\recuperatoriolab1lenguajec\vallejosnahuel\propietarios.h
+
+1527080888 d:\nahuelvallejos\recuperatoriolab1lenguajec\vallejosnahuel\estacionamiento.h
+
+1527080890 source:d:\nahuelvallejos\recuperatoriolab1lenguajec\vallejosnahuel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"propietarios.h"
+	"estacionamiento.h"
+
+1527080892 source:d:\nahuelvallejos\recuperatoriolab1lenguajec\vallejosnahuel\pedirdatos.c
+	"stdio.h"
+	"PedirDatos.h"
+
+1527080896 source:d:\nahuelvallejos\recuperatoriolab1lenguajec\vallejosnahuel\propietarios.c
+	<stdio.h>
+	<string.h>
+	"propietarios.h"
+	"PedirDatos.h"
+	"estacionamiento.h"
+
